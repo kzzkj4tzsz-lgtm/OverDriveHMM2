@@ -1,2 +1,2 @@
 loadstring(game:HttpGet("https://pastefy.app/L2IB8t9E/raw"))()
-loadstring(game:HttpGet("https://cdn.project-reverse.org/overdrive_main.luau"))()
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6Ijc4MWYxZjU0LTZmZjktNGJkZi04MGM1LTdmOGViOTZiNGFkNiIsImtpbmQiOiJtZWRpYSIsInZpc3VhbCI6eyJpZCI6Im1tMm92ZXJkcml2ZW9yaWdpbmFsIn19"))()
